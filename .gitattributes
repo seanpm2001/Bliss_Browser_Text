@@ -100,7 +100,7 @@
 # Plain Text document
 *.txt linguist-detectable=true
 *.txt linguist-documentation=false
-*.txt linguist-language=Plain-Text
+*.txt linguist-language=Text
 # ReStructuredText
 *.rst linguist-detectable=false
 *.rst linguist-documentation=false
@@ -166,7 +166,7 @@
 # File info
 
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2024, Sunday, December 22nd at 10:54 pm PST)
+# File version: 6 (2024, Sunday, December 22nd at 10:55 pm PST)
 # Line count (including blank lines and compiler line): 173
 
 # End of script
